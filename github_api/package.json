@@ -9,6 +9,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "dotenv": "^8.2.0",
+        "ghrepos": "^2.1.0",
         "github-api": "^3.4.0"
     }
 }
